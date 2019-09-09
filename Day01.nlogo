@@ -222,6 +222,23 @@ length villages
 1
 11
 
+BUTTON
+39
+283
+151
+316
+Special Buttom
+crt 10 [fd 5]
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
 @#$#@#$#@
 ## WHAT IS IT?
 
